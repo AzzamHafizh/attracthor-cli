@@ -20,7 +20,7 @@ The script will install all necessary dependencies, download and install the Flu
 ## Credits
 
 - Original script by MrBlackX/TheMasterCH
-- Modified by 0n1cOn3
+- Modified by AzzamHafizh
 
 ## Disclaimer
 
